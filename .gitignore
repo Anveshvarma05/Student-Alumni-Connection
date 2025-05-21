@@ -1,0 +1,33 @@
+# Python virtual environment
+ai_env/
+
+# Node.js dependencies
+node_modules/
+
+# Byte-compiled / cache files
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Environment variables
+.env
+
+# Compiled DLLs and large binary files
+*.dll
+*.lib
+*.exe
+
+# Model/data files (optional - if you're using ML)
+*.h5
+*.pkl
+*.ckpt
+*.pt
+
+# OS/IDE files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
